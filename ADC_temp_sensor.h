@@ -1,0 +1,1 @@
+float fADC_temp_sensor_start(void);
